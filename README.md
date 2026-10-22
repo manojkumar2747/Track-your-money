@@ -3,7 +3,7 @@
 A single-file web app. No installs, no server, no internet needed.
 
 ## Run it
-Double-click `index.html` (or in VS Code: right-click → Open with Live Server / open in browser).
+track-your-money-nu.vercel.app
 
 ## Use it
 1. Click **Try with sample data** to see a demo, or drop your own bank/UPI statement **CSV**.
